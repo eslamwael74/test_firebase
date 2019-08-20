@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "301241047554",
+    "firebase_url": "https://flutterfcm-be9ac.firebaseio.com",
+    "project_id": "flutterfcm-be9ac",
+    "storage_bucket": "flutterfcm-be9ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301241047554:android:8d9a2cadd76977ae",
+        "android_client_info": {
+          "package_name": "com.bites.eslamwael74.test_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301241047554-r49cl25ak24uh9npiqlh3eemn9a7g0ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAeMYOwKGsrxuAEQfq1P1VBe4WoTHblLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301241047554-r49cl25ak24uh9npiqlh3eemn9a7g0ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
